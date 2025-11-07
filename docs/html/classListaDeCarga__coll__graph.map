@@ -1,0 +1,6 @@
+<map id="ListaDeCarga" name="ListaDeCarga">
+<area shape="rect" id="Node000001" title="Lista Doblemente Enlazada para almacenar los caracteres decodificados." alt="" coords="5,112,115,137"/>
+<area shape="rect" id="Node000002" href="$structNodo.html" title="Estructura base para las listas." alt="" coords="32,7,88,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,47,63,112,57,112,57,47"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="103,9,111,12,115,20,106,30,89,32,88,27,104,26,109,20,107,16,101,13"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classTramaBase.html" title="Clase Base Abstracta (ABC) para todas las tramas (L/M)." alt="" coords="5,31,100,56"/>
+<area shape="rect" id="Node000001" href="$classTramaLoad.html" title="Representa una Trama de Carga (L, X). Contiene un fragmento de dato." alt="" coords="148,5,241,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="113,30,147,24,148,29,114,35"/>
+<area shape="rect" id="Node000002" href="$classTramaMap.html" title="Representa una Trama de Mapeo (M, N). Contiene la instrucción de rotación." alt="" coords="149,55,240,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="114,51,150,57,149,62,113,56"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RotorDeMapeo" name="RotorDeMapeo">
+<area shape="rect" id="Node000001" title="Lista Circular Doblemente Enlazada que actúa como el &quot;disco de cifrado&quot;." alt="" coords="5,97,124,123"/>
+<area shape="rect" id="Node000002" href="$structNodo.html" title="Estructura base para las listas." alt="" coords="37,7,93,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,46,67,97,62,97,62,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="108,10,116,13,119,20,111,29,93,31,93,26,108,24,114,20,112,17,106,15"/>
+</map>

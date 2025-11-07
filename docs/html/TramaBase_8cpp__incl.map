@@ -1,0 +1,17 @@
+<map id="TramaBase.cpp" name="TramaBase.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,328,31"/>
+<area shape="rect" id="Node000002" href="$TramaBase_8h.html" title=" " alt="" coords="163,79,270,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,33,235,69,231,66,257,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="269,225,330,251"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="273,30,285,78,297,152,301,211,296,212,291,152,279,79,268,32"/>
+<area shape="rect" id="Node000003" href="$ListaDeCarga_8h.html" title=" " alt="" coords="5,152,127,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,106,104,148,102,144,191,102"/>
+<area shape="rect" id="Node000006" href="$RotorDeMapeo_8h.html" title=" " alt="" coords="151,152,282,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="219,104,219,138,214,138,214,104"/>
+<area shape="rect" id="Node000004" href="$Nodo_8h.html" title=" " alt="" coords="156,225,224,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,175,159,216,157,221,85,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="26,225,106,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="69,178,69,212,63,212,63,178"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="215,179,202,214,197,212,210,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="232,175,277,214,274,218,228,179"/>
+</map>
